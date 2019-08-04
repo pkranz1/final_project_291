@@ -1,0 +1,45 @@
+Ice Cream
+Ben & Jerries:
+	Pints (8 count): 34.50
+Haagen Daz:
+	Pints (8 count): 36.00
+	Bars (12 count): 29.00
+	Dixies (12 count): 18.00
+Dolly Madison:
+	Sundae Cups (12 count): 18.00
+	Cone (24 count): 33.25
+	Strawberry Shortcake Bar (24 count): 29.75
+	Orange Cream Bar (24 count): 29.75
+	Vanilla Ice Cream Bar (24 count): 29.75
+	Chocolate Eclair Bar (24 count): 29.75
+	Chip-wich Sandwich (24 count): 32.25
+Marinos:
+	Italian Ices (12 count): 8.65
+	Frozen Fruit Bar (24 count): 25.15
+Mars:
+	Snickers Ice Cream Bar (24 count): 29.75
+	M&M Ice Cream Bar (24 count): 28.25
+	Twix Ice Cream Bar (24 count): 27.45
+Nestle:
+	Chocolate Ice Cream Cone (12 count): 25.85
+	Vanilla Ice Cream Cone (12 count): 25.75
+	Toll House Sandwich (12 count): 23.50
+
+Frozen Food:
+Ore-Ida:
+	Bagel Bites (12 count): 36.75
+	French Fries (24 count): 40.67
+Tostino's:	
+	Pizza Rolls (12 count): 45.85
+Hot Pockets:
+	Philly Cheese steak (8 count): 28.95
+	Mac & Cheese (8 count): 27.45
+	Peperoni Pizza (8 count): 29.00
+	Ham & Cheese (8 count): 27.45
+DiGiorno:
+	Plain Pizza (8 count): 62.50
+	Vegetable Lovers Pizza (8 count): 64.00
+	Meat Lovers Pizza (8 count): 65.35
+	Cheese Stuffed Crush Pizza (8 count): 63.75
+
+
